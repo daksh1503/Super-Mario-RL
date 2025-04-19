@@ -1,0 +1,10 @@
+__pycache__
+*.gif
+*.pth
+*.p
+
+# Mario environment files
+marioenv/
+.venv/
+mario_q*.pth
+score.p
