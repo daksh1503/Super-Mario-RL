@@ -16,7 +16,7 @@ Here are my super mario agents with dueling network. ( trained 7,000 epoch )
 ## Cloning git
 
 ```
-git clone https://github.com/daksh1503/Mario_RL.git
+git clone https://github.com/daksh1503/Super-Mario-RL.git
 cd Super-Mario-RL
 ```
 
